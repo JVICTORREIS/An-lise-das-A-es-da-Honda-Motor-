@@ -1,4 +1,6 @@
-# Descrição do Projeto
+# Análise do Desempenho das Ações da Honda Motor 
+
+## Descrição do Projeto
 
 Este projeto utiliza dados históricos de preços de ações da Honda Motor Co (HMC) entre 01 de janeiro de 2020 e 01 de maio de 2024 para analisar o desempenho e as tendências dessas ações. Com o objetivo de simplificar a manipulação e análise desses dados, a biblioteca pandasql é empregada, permitindo consultas em estilo SQL em DataFrames pandas.
 
@@ -6,7 +8,7 @@ O conjunto de dados abrange uma ampla gama de informações relevantes, incluind
 
 Ao combinar os recursos da biblioteca pandasql com os dados disponíveis, este projeto visa fornecer insights valiosos sobre o comportamento do mercado de ações da Honda Motor Co ao longo do tempo. Essas análises podem ser úteis para investidores e analistas na tomada de decisões informadas e na formulação de estratégias de investimento mais sólidas.
 
-# Descrição dos Dados
+## Descrição dos Dados
 
 * Date (Data): A data do registro.
 * Open (Preço de abertura): O preço de abertura da ação no dia.
@@ -16,7 +18,7 @@ Ao combinar os recursos da biblioteca pandasql com os dados disponíveis, este p
 * Adj Close (Preço de fechamento ajustado): O preço de fechamento ajustado da ação
 * Volume (Volume de negociações): O número de ações negociadas no dia.
 
-# Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 * Python 
 * Pandas
@@ -24,6 +26,6 @@ Ao combinar os recursos da biblioteca pandasql com os dados disponíveis, este p
 * matplotlib
 * Seaborn
 
-# Conclusão
+## Conclusão
 
 A análise das ações da Honda Motor Co entre 2020 e 2024 proporcionou insights valiosos, destacando tendências de preços, métricas de desempenho, padrões sazonais e correlações entre variáveis. Esses insights são fundamentais para decisões informadas de investimento e estratégias sólidas, possibilitando aos investidores maximizar retornos e mitigar riscos no mercado de ações.
